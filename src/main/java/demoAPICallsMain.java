@@ -47,7 +47,7 @@ public class demoAPICallsMain {
             // print result
             System.out.println(response.toString());
         } else {
-            System.out.println("POST NOT WORKED");
+            System.out.println("POST DIDN'T WORK");
         }
     }
 }
